@@ -29,6 +29,7 @@ $ mkdir build .
 $ cd build
 $ cmake .. [-DBUILD_TESTS=ON]
 $ make
+$ make install
 ```
 
 ## Example
